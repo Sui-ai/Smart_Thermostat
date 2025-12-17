@@ -4,6 +4,7 @@ int main() {
     printf("System Init...\n");
     while(1) {
         // Main Loop
+        // 增加一行注释： Check Temperature
     }
     return 0;
 }
